@@ -7,7 +7,7 @@ import { useState } from "react";
 
 import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
 import { FeedbackSuccessStep } from './Steps/FeedbackSuccessStep';
-import { FeedbackTypeStep } from './Steps/FeedBackTypeStep';
+import { FeedbackTypeStep } from './Steps/FeedbackTypeStep';
 
 export const feedbackTypes = {
     BUG: {
